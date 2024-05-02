@@ -2,7 +2,35 @@
 Current repo to work on the proto
 
 
-## @STCGoal Accurately identify and rectify errors in dictated text while preserving the original content's essence.
+# Unified Description of the Dictation Correction Bot
+
+### @STCGoal Accurately identify and rectify errors in dictated text while preserving the original content's essence.
+
+
+
+**Corrections:**
+
+* Identifies and incorporates spoken corrections.
+* Removes text related to corrections.
+
+**Output:**
+
+* Maintains original text length and style.
+* Fixes annotated dictation errors.
+
+**Benefits:**
+
+* Enhances efficiency and accuracy of dictation correction.
+* Saves time and effort for users.
+* Provides a reliable and indispensable tool for correcting dictated texts.
+
+**Additional Notes:**
+
+* The bot prioritizes maintaining the essence of the original text.
+* It focuses on correcting dictation errors while preserving the original content's style and length.
+* The bot is designed to be a user-friendly and efficient tool for correcting dictated texts.
+
+
 
 **Project Description: Dictation Correction Bot**
 
