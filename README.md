@@ -1,3 +1,13 @@
+# DEPRECATION NOTICE
+
+* This will migrate to a centralized Hub 240923
+
+
+----
+ORIGINAL
+----
+
+
 # dictkore-proto-2405
 Current repo to work on the proto
 
